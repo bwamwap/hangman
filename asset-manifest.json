@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/school-computer-class-collection/hangman/static/css/main.c2848279.css",
+    "main.js": "/school-computer-class-collection/hangman/static/js/main.a122a487.js",
+    "static/js/787.20ace30e.chunk.js": "/school-computer-class-collection/hangman/static/js/787.20ace30e.chunk.js",
+    "index.html": "/school-computer-class-collection/hangman/index.html",
+    "main.c2848279.css.map": "/school-computer-class-collection/hangman/static/css/main.c2848279.css.map",
+    "main.a122a487.js.map": "/school-computer-class-collection/hangman/static/js/main.a122a487.js.map",
+    "787.20ace30e.chunk.js.map": "/school-computer-class-collection/hangman/static/js/787.20ace30e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2848279.css",
+    "static/js/main.a122a487.js"
+  ]
+}
